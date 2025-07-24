@@ -16,7 +16,9 @@ It uses a neural network built with TensorFlow and trained on the popular `Fake.
 
 Achieved **over 98% training accuracy** and solid validation performance.
 
-<img src="path/to/your/accuracy_loss_plot.png" width="600">
+<img width="1071" height="588" alt="image" src="https://github.com/user-attachments/assets/587f22e2-f0cc-4ab0-bc3e-07526a9c4134" />
+
+
 
 ## 🧪 Try It Out
 
